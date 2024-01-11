@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-205h9($9aoipjf-h5eppqq1td-(9kczpr*y2itg%v(ux(*t&j=
 DEBUG = False 
 
 ALLOWED_HOSTS = ["pythontexteditor.azurewebsites.net"]
-CSRF_TRUSTED_ORIGINS = ["pythontexteditor.azurewebsites.net"]
+CSRF_TRUSTED_ORIGINS = ["https://pythontexteditor.azurewebsites.net"]
 
 # Application definition
 
